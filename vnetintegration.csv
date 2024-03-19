@@ -1,0 +1,4 @@
+vNetResourceGroupName,ResourceGroupName,AppServiceName,VNetName,SubnetName
+rg-ls-aratrika,rg-ls-aratrika,kansotest,kanso-vnet,kansotest
+rg-ls-aratrika,rg-ls-aratrika,kansotest2,oneshield-rg,kansotest2
+rg-ls-aratrika,rg-ls-aratrika,kansotest3,oneshield-rg,kansotest3
